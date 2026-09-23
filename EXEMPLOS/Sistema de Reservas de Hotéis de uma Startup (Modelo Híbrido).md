@@ -1,0 +1,15 @@
+**Problema:** Uma startup deseja desenvolver um sistema de reservas de hotéis em nível global sob um prazo de entrega extremamente apertado. Ao mesmo tempo, necessita de alta flexibilidade para acomodar futuras expansões ou mudanças de requisitos à medida que o mercado ou clientes tragam feedbacks, e precisa garantir que o trabalho colaborativo de código-fonte de sua equipe de desenvolvimento não sofra com conflitos ou perda de histórico de alterações.
+
+**Conceito utilizado:** Modelo de desenvolvimento híbrido (combinando os métodos **Cascata** e **Scrum**) integrado ao controle de versão descentralizado (**Git**).
+
+**Solução:** O problema é resolvido estruturando o desenvolvimento do projeto em três fases complementares e integradas:
+
+1. **Fase de Análise e Planejamento Iniciais (Cascata)**: Realização de entrevistas com potenciais clientes, mapeamento detalhado de requisitos essenciais e criação da especificação do sistema. Definição da arquitetura lógica, seleção da pilha de tecnologia apropriada e elaboração de um plano de desenvolvimento global de base sólida.
+2. **Fase de Desenvolvimento Iterativo (Scrum)**: Divisão da implementação do sistema em ciclos curtos de duas semanas (Sprints). Em cada Sprint, o time foca em codificar e testar um conjunto específico de requisitos do backlog prioritário. Feedbacks de usuários (como a demanda por um novo recurso de "pesquisa avançada") são absorvidos dinamicamente e inseridos em Sprints subsequentes.
+3. **Fase de Controle e Colaboração de Código (Git)**: Uso do Git para rastrear todas as alterações do projeto e facilitar a reversão de versões, se necessário. Desenvolvedores criam linhas de trabalho isoladas (_branches_) para implementar recursos de forma independente e realizam a fusão (_merges_) com a linha principal (_mainline_) apenas após validação de integridade.
+
+**Resultado:** A startup consegue lançar seu sistema de reservas de hotéis dentro do prazo apertado, mantendo a flexibilidade necessária para acomodar mudanças nos requisitos técnicos do sistema ao longo do tempo.
+
+**Por que essa solução funciona:** Esta solução funciona porque aproveita as forças de cada metodologia de forma balanceada. A estrutura inicial baseada em Cascata garante que a infraestrutura e os requisitos de base do sistema de reservas (que são complexos e contratuais) sejam bem compreendidos e estáveis. O Scrum elimina o aspecto estático e engessado do Cascata na fase de construção, oferecendo adaptabilidade rápida a mudanças. Por fim, o Git funciona como a ferramenta de segurança mecânica essencial que viabiliza o desenvolvimento simultâneo sem corromper a base comum de código.
+
+**O que preciso aprender com esse exemplo:** Para provas e aplicação prática, aprenda que os métodos tradicionais e ágeis não são mutuamente exclusivos, e sim complementares. O planejamento robusto de requisitos iniciais (Cascata) fornece a bússola arquitetural, enquanto o desenvolvimento incremental e focado no usuário (Scrum) dá a agilidade de rota necessária para lidar com um mercado dinâmico e prazos apertados.

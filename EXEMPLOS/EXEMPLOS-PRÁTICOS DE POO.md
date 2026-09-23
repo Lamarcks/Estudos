@@ -1,0 +1,6 @@
+[[Padrão Observer aplicado ao Agendamento de Consultas Clínicas]]
+[[Gestão de Estoque da Loja Ferramentas Certa via Arquivos]]
+[[Proteção e Consistência no Catálogo de uma Loja Virtual]]
+[[Organização Lógica de um Banco de Dados de Biblioteca]]
+[[Cálculo de Financiamento na Pesquisa Científica com Classes Abstratas]]
+[[Leitura de Arquivo IoT e Robustez com try-catch-finally]]

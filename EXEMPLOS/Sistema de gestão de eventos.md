@@ -1,0 +1,12 @@
+
+**Descrição da situação-problema**
+
+Foi solicitada a uma pequena empresa de desenvolvimento de software a criação de um sistema de gestão de eventos. O sistema deve ter uma aplicação Web e um aplicativo para dispositivos móveis. A aplicação deve ter funcionalidades, como: criar um evento, verificar a programação de um evento e fazer inscrição em uma atividade. Deve incluir, ainda, funcionalidades adicionais para organizadores de evento, tais como validar a inscrição e registrar a presença dos participantes por meio de QR code. Como se trata de uma empresa nova e pequena, não há grande disponibilidade de recursos computacionais e o número de funcionários é pequeno. A empresa, então, vai optar por um ambiente de nuvem para desenvolvimento do sistema. Nesse caso, qual seria o modelo de serviço mais adequado: SaaS, PaaS ou IaaS?
+
+**Resolução da situação-problema**
+
+Primeiramente, já podemos descartar a opção de SaaS, pois a empresa não precisa usar um software específico disponível na nuvem, mas desenvolver a solução conforme requisitado.
+
+Precisamos, então, fazer uma escolha entre IaaS e PaaS. Pode-se perceber que, pela demanda apresentada, não há necessidade do nível de controle oferecido no modelo IaaS. Portanto, pode-se fazer uma opção por um modelo com maior nível de abstração. Além disso, se a empresa escolhesse o modelo IaaS, ela teria que se preocupar com a instalação e configuração de todo o ambiente necessário para desenvolvimento, teste e implantação do sistema. Essas tarefas demandam um tempo considerável e profissionais habilitados, o que representaria um alto investimento inicial para uma empresa pequena.
+
+Podemos concluir que o modelo PaaS é a melhor opção. Os provedores de PaaS oferecem ambientes para desenvolvimento e hospedagem de sistemas e bancos de dados com as tecnologias e ferramentas mais importantes para desenvolvimento de aplicação web e aplicativos. O ambiente é rapidamente provisionado e dispensa gerenciamento da infraestrutura, o que agiliza e reduz os custos para desenvolvimento das soluções. Além disso, os provedores de PaaS oferecem mecanismos de replicação e balanceamento de carga automáticos para facilitar o trabalho de garantir a escalabilidade e desempenho da solução desenvolvida. Essas facilidades são muito importantes, principalmente para empresas menores que não dispõem de equipes especializadas para lidar com esses desafios.

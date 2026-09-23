@@ -1,0 +1,11 @@
+
+- **Problema:** Lucas, desenvolvedor de sistemas lógicos de uma fintech que lida com o gerenciamento de ativos sob os pilares da LGPD, detecta uma vulnerabilidade grave em um dos aplicativos móveis que permitiria a terceiros interceptar e obter dados bancários confidenciais dos clientes. Em vez de relatar a falha à equipe interna de SI, ele explora a brecha de segurança para benefício financeiro próprio, compartilha o exploit técnico com terceiros de uma empresa concorrente e gera vazamento de dados de diversos correntistas.
+- **Conceito utilizado:** Ética no Desenvolvimento de Software, Desenvolvimento Seguro e Penalidades Regulatórias de Proteção de Dados (LGPD).
+- **Solução:**
+    1. **Contenção Operacional:** Interrupção imediata das atividades funcionais e acessos sistêmicos de Lucas e publicação de patch técnico para corrigir a falha de código exposta.
+    2. **Análise de Impacto:** Abertura de investigação técnica para quantificar o tamanho e a severidade do vazamento cibernético de dados.
+    3. **Ações Regulatórias Legais:** Cooperação com as autoridades federais de proteção de dados, notificação formal transparente a todos os correntistas lesados, aplicação de desligamento por justa causa ao desenvolvedor e abertura de ações judiciais criminais e civis de responsabilidade.
+    4. **Melhoria de Processo:** Implementação de varreduras de código automatizadas (SAST/DAST) e revisão geral de práticas éticas e técnicas do time de TI.
+- **Resultado:** Correção imediata do vazamento sistêmico, punição severa do colaborador infrator em conformidade com as leis de privacidade brasileiras (LGPD) e revisão geral da segurança no desenvolvimento de softwares.
+- **Por que essa solução funciona:** Diante de uma infração interna grave que compromete a integridade e viola leis de proteção de dados (LGPD), a empresa precisa agir com rigor absoluto e transparência técnica, remediando as falhas lógicas do software de imediato e acionando as esferas regulatórias e penais contra o infrator.
+- **O que preciso aprender com esse exemplo:** A engenharia de software exige comprometimento ético irrepreensível dos programadores. Falhar em reportar brechas críticas de segurança deliberadamente para obter vantagens individuais viola os deveres profissionais mínimos, gerando demissão e processos criminais severos de conformidade de privacidade.

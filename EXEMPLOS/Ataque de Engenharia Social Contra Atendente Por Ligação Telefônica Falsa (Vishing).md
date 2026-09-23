@@ -1,0 +1,11 @@
+- **Problema:** Um colaborador da área de atendimento de uma corporação recebe uma chamada telefônica em seu posto de trabalho. O interlocutor diz ser analista técnico da equipe de TI interna e exige privilégios de acesso remoto e dados operacionais corporativos para "corrigir pendências e incidentes urgentes de segurança" no aparelho do colaborador. O funcionário desconfia, mas não possui regras claras de processos para seguir de modo seguro.
+- **Conceito utilizado:** Engenharia Social (técnicas de persuasão e urgência via Vishing) e Processos de Defesa Humanos.
+- **Solução:**
+    1. **Uso de Verificação Reversa:** Exigir credenciais completas e de rastreamento funcional do solicitante (nome de funcionário, ramal, ID) antes de prosseguir com qualquer diálogo técnico.
+    2. **Suspensão do Contato Técnico:** Interromper o atendimento informal e não autorizar acessos lógicos ou digitação de códigos.
+    3. **Reporte Imediato:** Notificar imediatamente o time interno de TI e o departamento de cibersegurança do negócio para verificar a legitimidade da chamada operacional.
+    4. **Formalização de Políticas de TI:** Implementar diretrizes e comunicar de forma irrestrita a todos que a equipe de TI nunca solicitará logins, senhas ou acessos por telefone ou e-mail sem um chamado operacional documentado de suporte corporativo.
+    5. **Segurança Técnica (MFA):** Implantação de MFA robusto nas contas corporativas para evitar êxitos de acessos mesmo se as senhas lógicas de logins forem indevidamente informadas em golpes.
+- **Resultado:** Ação do golpista neutralizada devido à atitude vigilante do funcionário e consolidação técnica das políticas de barreiras de fraudes humanas da TI.
+- **Por que essa solução funciona:** Ataques baseados em psicologia humana usam senso de urgência, medo e autoridade forjada para assustar a vítima. Ao forçar procedimentos de validação de identidade e interromper contatos informais fora de chamados, a mentira do atacante cibernético é abortada com sucesso antes de causar danos lógicos.
+- **O que preciso aprender com esse exemplo:** A engenharia social é o principal vetor de invasões e contorna sistemas puramente de software ao atacar o fator humano. Regras rígidas de TI de verificação de identidades e treinamentos contra golpes baseados em telefonemas (vishing) e mensagens falsas são controles fundamentais.
