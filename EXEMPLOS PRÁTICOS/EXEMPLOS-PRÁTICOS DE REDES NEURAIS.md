@@ -1,5 +1,0 @@
-[[Previsão de Vendas no Varejo]]
-[[Detecção de Doenças por Imagens Médicas]]
-[[Segmentação de Clientes para Marketing]]
-[[Previsão de Séries Temporais]]
-[[Redução de Dimensionalidade de Dados Complexos]]
