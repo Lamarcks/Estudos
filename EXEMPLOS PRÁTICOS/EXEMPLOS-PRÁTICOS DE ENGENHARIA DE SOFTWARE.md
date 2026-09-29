@@ -1,7 +1,0 @@
-[[Sistema de Reservas de Hotéis de uma Startup (Modelo Híbrido)]]
-[[Classificação de Requisitos de um Sistema de Biblioteca]]
-[[Algoritmo Maior e Menor em Carrinho de Compras (TDD & JUnit)]]
-[[Grafo de Fluxo e Cobertura Lógica (Verificação do Saque Bancário)]]
-[[Migração de Sistema de Informações Hospitalares (RMMM)]]
-[[PROC-TI - Seleção de Modelo para Monitoramento da Amazônia]]
-[[Auditoria de Atraso de Software na Operadora Odontológica]]
