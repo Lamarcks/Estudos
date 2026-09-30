@@ -1,57 +1,50 @@
-# 📚 Knowledge Base
+<div align="center">
 
-Repositório centralizado para documentar minha evolução conceitual e prática em **Ciência de Dados, Machine Learning, Inteligência Artificial e Engenharia de Dados**. Este espaço reúne exercícios, desafios de plataformas de ensino e pequenos projetos focados na aplicação dos fundamentos tecnológicos que utilizo.
+# 📚 Base de Conhecimento — Notas de Estudo e Documentação Acadêmica
 
----
+### **Repositório Acadêmico com Resumos Detalhados Estruturados em Markdown via Obsidian**
 
-## 🚀 Objetivo do Repositório
+*Espaço centralizado para documentar minha evolução conceitual e prática em tecnologia, organizando revisões teóricas, laboratórios práticos e materiais de suporte com auxílio de Inteligência Artificial.*
 
-O propósito deste repositório é consolidar o conhecimento teórico adquirido em código limpo, estruturado e documentado. Ele serve como laboratório para testar algoritmos, ferramentas de ETL, frameworks de IA Generativa e integrações em nuvem antes de aplicá-los em projetos de maior escala.
+</div>
 
----
+<div align="center">
 
-## 🛠️ Tecnologias & Ferramentas Frequentes
+![Markdown](https://shields.io)
+![Obsidian](https://shields.io)
+![AI](https://shields.io🤖-blue?style=for-the-badge)
+![Git](https://shields.io)
 
-- **Linguagem Principal:** Python 🐍
-- **Análise & Manipulação de Dados:** Pandas, NumPy
-- **Visualização de Dados:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn
-- **IA Generativa & RAG:** LangChain, Groq API, Bancos Vetoriais
-- **Ambientes de Desenvolvimento:** Jupyter Notebook, VS Code
+</div>
 
 ---
 
-## 📂 Estrutura do Repositório
+## 🚀 Sobre o Repositório
 
-O conteúdo está organizado por módulos temáticos para facilitar a navegação:
+O propósito deste repositório é consolidar o conhecimento adquirido ao longo da minha jornada acadêmica e em formações complementares. Utilizando o **Obsidian** como ecossistema de notas interconectadas e suporte de ferramentas de **Inteligência Artificial**, este espaço serve como uma base de conhecimento viva e de rápida consulta.
 
-```text
-├── 01-analise-e-tratamento-de-dados/  # ETL, limpeza de dados (Missing values, outliers)
-├── 02-analise-exploratoria-eda/       # Visualização de dados e análise estatística
-├── 03-machine-learning/               # Modelos de classificação, regressão e métricas
-├── 04-ia-generativa-e-rag/            # Integração com LLMs, prompts e bases de conhecimento
-└── README.md                          # Documentação do repositório
-```
+A organização está dividida diretamente pelas frentes de desenvolvimento e trilhas de aprendizado que consumo diariamente.
 
 ---
 
-## 📈 Tópicos em Desenvolvimento
+## 📂 Estrutura de Pastas
 
-### 🔸 Ciência de Dados & ETL
-- Técnicas avançadas de tratamento e limpeza de dados.
-- Exploração estatística para identificação de padrões e correlações.
+O conteúdo está distribuído em três grandes pilares para facilitar a navegação e a revisão:
 
-### 🔸 Machine Learning Aplicado
-- Treinamento e ajuste de hiperparâmetros em modelos preditivos.
-- Avaliação de performance através de matrizes de confusão, precisão, recall e F1-score.
-
-### 🔸 Engenharia de IA & LLMs
-- Arquiteturas de RAG (*Retrieval-Augmented Generation*) com agentes inteligentes.
-- Estruturação de memória e gerenciamento de contexto para assistentes virtuais.
+* **`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS/`** — Materiais de disciplinas acadêmicas, engenharia de software, modelagem de sistemas, arquitetura de soluções e conceitos fundamentais da graduação.
+* **`CURSOS/`** — Anotações de formações complementares, especializações práticas, trilhas de plataformas externas (como Alura/ONE) e resumos técnicos focados em habilidades específicas.
+* **`EXEMPLOS/`** — Pequenos laboratórios, trechos de código, scripts de teste e aplicações de conceito que servem de apoio prático para fixação do conteúdo estudado.
 
 ---
 
-## 👤 Autor
+## 📌 Ferramental e Metodologia
 
-Desenvolvido por **Ihago Lamarcks**  
-- **LinkedIn:** [in/ihago-lamarcks1](https://linkedin.com)  
+* **Obsidian:** Utilizado para criar uma rede neural de notas conectadas (*backlinks*), facilitando a retenção de conceitos de longo prazo.
+* **Markdown:** Padrão de escrita universal adotado para manter toda a documentação limpa, legível e versionável.
+* **Suporte de IA:** Integração de agentes e LLMs para auxiliar na síntese de tópicos complexos, geração de exemplos práticos e revisão de código.
+
+---
+
+## 👤 Colaboradores
+
+* **Ihago Lamarcks** — [@Lamarcks](https://github.com)
