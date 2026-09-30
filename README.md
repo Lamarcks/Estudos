@@ -10,10 +10,12 @@
 
 <div align="center">
 
-![Markdown](https://shields.io)
-![Obsidian](https://shields.io)
-![AI](https://shields.io🤖-blue?style=for-the-badge)
-![Git](https://shields.io)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=ai&logoColor=white"/>
 
 </div>
 
@@ -46,5 +48,4 @@ O conteúdo está distribuído em três grandes pilares para facilitar a navega�
 ---
 
 ## 👤 Colaboradores
-
-* **Ihago Lamarcks** — [@Lamarcks](https://github.com)
+* **LinkedIn:** [in/ihago-lamarcks1](https://linkedin.com)  
