@@ -1,67 +1,58 @@
-# 📚 Central de Estudos & Anotações
+# 📚 Repositório de Estudos: Data Science, ML & IA
 
-<p align="left">
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Obsidian" />
-  <img src="https://shields.io" alt="NotebookLM" />
-  <img src="https://shields.io" alt="Markdown" />
-</p>
-
-Repositório centralizado de estudos acadêmicos e cursos de especialização. As anotações são desenvolvidas em **Markdown** utilizando o [Obsidian](https://obsidian.md), sintetizadas e refinadas com auxílio de inteligência artificial via [Google NotebookLM](https://notebooklm.google).
+Repositório centralizado para documentar minha evolução conceitual e prática em **Ciência de Dados, Machine Learning, Inteligência Artificial e Engenharia de Dados**. Este espaço reúne exercícios, desafios de plataformas de ensino e pequenos projetos focados na aplicação dos fundamentos tecnológicos que utilizo.
 
 ---
 
-## 📌 Sumário
+## 🚀 Objetivo do Repositório
 
-- [Visão Geral](#-visão-geral)
-- [Estrutura de Pastas](#-estrutura-de-pastas)
-- [Trilha de Aprendizado](#-trilha-de-aprendizado)
-- [Workflow de Estudos](#-workflow-de-estudos)
+O propósito deste repositório é consolidar o conhecimento teórico adquirido em código limpo, estruturado e documentado. Ele serve como laboratório para testar algoritmos, ferramentas de ETL, frameworks de IA Generativa e integrações em nuvem antes de aplicá-los em projetos de maior escala.
 
 ---
 
-## 📂 Estrutura de Pastas
+## 🛠️ Tecnologias & Ferramentas Frequentes
+
+- **Linguagem Principal:** Python 🐍
+- **Análise & Manipulação de Dados:** Pandas, NumPy
+- **Visualização de Dados:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **IA Generativa & RAG:** LangChain, Groq API, Bancos Vetoriais
+- **Ambientes de Desenvolvimento:** Jupyter Notebook, VS Code
+
+---
+
+## 📂 Estrutura do Repositório
+
+O conteúdo está organizado por módulos temáticos para facilitar a navegação:
 
 ```text
-├── 📁 FACULDADE/        # Matérias da grade acadêmica organizadas por período
-├── 📁 CURSOS/           # Formações complementares (Alura e outros)
-│   ├── 📁 Programacao/
-│   └── 📁 Inteligencia-Artificial/
-├── 📁 EXEMPLOS/         # Modelos de notas, templates e referências
-└── 📁 _assets/          # Diagramas, ilustrações e anexos de apoio
+├── 01-analise-e-tratamento-de-dados/  # ETL, limpeza de dados (Missing values, outliers)
+├── 02-analise-exploratoria-eda/       # Visualização de dados e análise estatística
+├── 03-machine-learning/               # Modelos de classificação, regressão e métricas
+├── 04-ia-generativa-e-rag/            # Integração com LLMs, prompts e bases de conhecimento
+└── README.md                          # Documentação do repositório
 ```
 
 ---
 
-## 🚀 Trilha de Aprendizado
+## 📈 Tópicos em Desenvolvimento
 
-### 🎓 [FACULDADE](./FACULDADE/)
-> Anotações de aula, projetos práticos e sínteses teóricas da graduação.
-* **Redes Neurais & IA:** Fundamentos e arquiteturas.
-* **Engenharia de Software:** Métodos, ciclo de vida e modelagem.
+### 🔸 Ciência de Dados & ETL
+- Técnicas avançadas de tratamento e limpeza de dados.
+- Exploração estatística para identificação de padrões e correlações.
 
-### 💻 [CURSOS](./CURSOS/)
-> Certificações, formações e práticas extracurriculares.
-* **Formações Alura:** Aprofundamento em stacks de desenvolvimento.
+### 🔸 Machine Learning Aplicado
+- Treinamento e ajuste de hiperparâmetros em modelos preditivos.
+- Avaliação de performance através de matrizes de confusão, precisão, recall e F1-score.
 
----
-
-## 🛠️ Workflow de Estudos
-
-```mermaid
-graph LR
-    A[PDFs / Aulas] --> B[NotebookLM]
-    B --> C[Obsidian MD]
-    C --> D[GitHub Repo]
-```
-
-1. **Entrada:** Consumo de material bruto (aulas e apostilas).
-2. **Síntese:** Extração de tópicos-chave e perguntas guiadas via NotebookLM.
-3. **Documentação:** Estruturação local em rede pelo Obsidian.
-4. **Backup:** Controle de versão contínuo via GitHub Desktop.
+### 🔸 Engenharia de IA & LLMs
+- Arquiteturas de RAG (*Retrieval-Augmented Generation*) com agentes inteligentes.
+- Estruturação de memória e gerenciamento de contexto para assistentes virtuais.
 
 ---
 
-<p align="center">
-  <sub>Mantido por <a href="https://github.com">Lamarcks</a></sub>
-</p>
+## 👤 Autor
+
+Desenvolvido por **Ihago Lamarcks**  
+- **LinkedIn:** [in/ihago-lamarcks1](https://linkedin.com)  
+- **GitHub:** [@Lamarcks](https://github.com/Lamarcks)
