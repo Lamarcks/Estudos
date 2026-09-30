@@ -1,4 +1,4 @@
-# 📚 Repositório de Estudos: Data Science, ML & IA
+# 📚 Knowledge Base
 
 Repositório centralizado para documentar minha evolução conceitual e prática em **Ciência de Dados, Machine Learning, Inteligência Artificial e Engenharia de Dados**. Este espaço reúne exercícios, desafios de plataformas de ensino e pequenos projetos focados na aplicação dos fundamentos tecnológicos que utilizo.
 
