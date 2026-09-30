@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Base de Conhecimento — Notas de Estudo e Documentação Acadêmica
+# 📚 Base de Conhecimento e Documentação Acadêmica
 
 ### **Repositório Acadêmico com Resumos Detalhados Estruturados em Markdown via Obsidian**
 
@@ -10,7 +10,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
