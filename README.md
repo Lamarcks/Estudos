@@ -55,4 +55,3 @@ O conteúdo está organizado por módulos temáticos para facilitar a navegaçã
 
 Desenvolvido por **Ihago Lamarcks**  
 - **LinkedIn:** [in/ihago-lamarcks1](https://linkedin.com)  
-- **GitHub:** [@Lamarcks](https://github.com/Lamarcks)
